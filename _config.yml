@@ -1,0 +1,4 @@
+remote_theme: jekyll-theme-so-simple
+skin: "/assets/css/skins/default.css"
+locale: en-US
+title: "WhatShouldIMakeForLunch?"
