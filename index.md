@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: post
 ---
 
 <script>
@@ -36,10 +36,4 @@ layout: home
          }
 </script>
 
-
-<div class="container">
-       <div class="row">
-           <span class="text1"> Click the button! </span>
-       </div>
-   </div>
 <button onclick="foods()">Roll a random lunch dish!</button>
